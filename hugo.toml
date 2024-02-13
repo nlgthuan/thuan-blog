@@ -1,4 +1,14 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nlgtEA.github.io/'
 languageCode = 'en-us'
 title = "Thuan's Blog"
 theme = 'archie'
+copyright = "© ThuanN"
+
+[params]
+    mode = "auto"
+    customcss = ["css/set.css"]
+
+[[params.social]]
+    name = "GitHub"
+    icon = "github"
+    url = "https://github.com/nlgtEA"
