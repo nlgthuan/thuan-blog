@@ -4,11 +4,9 @@ date = 2024-04-05T20:41:49+07:00
 draft = false
 +++
 
-> Senior developers without opinions tend to not be very good
+> One broken window, left unrepaired for any substantial length of time, instills in the inhabitants of the building a sense of abandonment—a sense that the powers that be don't care about the building. So another window gets broken. People start littering. Graffiti appears. Serious structural damage begins. In a relatively short span of time, the building becomes damaged beyond the owner's desire to fix it, and the sense of abandonment becomes reality.
 >
-> Junior developers with many opinions tend to not get good quickly (and are annoying AF)
->
-> -- <cite>Boot.dev</cite>
+> -- <cite>The Pragmatic Programmer - D. Thomas, A. Hunt</cite>
 
 
 When using AI to drive my daily work, usually, the feedback I receive is just sub-optimal solutions (not optimized, slightly wrong use of functions, bad design, etc…). It takes great expertise in the current language or framework to address these issues and and prevent the AI from steering in the wrong direction. Because this code just “works”, it’s challenging to detect the code smell.
