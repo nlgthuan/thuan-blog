@@ -22,6 +22,6 @@ To me, working with AI is like working with a junior who knows a lot but can som
 I believe that senior developers will benefit more from a AI driven workflow. But for junior developers or seniors when working with new languages, who have not yet been able to review code thoroughly, such workflow can cause more harm than help. We can never trust and learn from “a friend” who loves to make things up and tries to “gaslight” us all the time.
 
 
-For example, last week, I was working on the 1 Billion Rows Challenge last week (the post about this will be updated soon), in a language that I am not very proficient in (Golang, btw). When I tried to find a byte inside a bytes stream, I typed `bytes.I…`, Copilot quickly helped to fill in the rest with `bytes.Index(s, []{','})`, which worked perfectly.
+For example, last week, while I was working on the 1 Billion Rows Challenge (the post about this will be updated soon), in a language that I am not very proficient in (Golang, btw). When I tried to find a byte inside a bytes stream, I typed `bytes.I…`, Copilot quickly helped to fill in the rest with `bytes.Index(s, []{','})`, which worked perfectly.
 If I weren’t curious enough to ask “why does it require an array of bytes as an argument, I just want to find a single byte”, I would never learn that the more efficient/suitable function `bytes.IndexByte` exists. And I had the same problem with `bytes.Split` and `bytes.SplitN` as well.
 If I tried to reach to the document right away, I would have been able to go straight to the perfect solution at first try.
